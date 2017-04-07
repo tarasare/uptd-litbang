@@ -1,0 +1,1 @@
+web: java -Dspring-profiles.active=heroku -jar target/uptd-litbang-0.0.1-SNAPSHOT.jar

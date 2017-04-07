@@ -68,6 +68,12 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.0.0</version>
+</dependency>
 		<!-- For generating Auto Completion of  in application.properties
 See: http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#configuration-metadata-annotation-processor
  -->
